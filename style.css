@@ -1,28 +1,28 @@
 body {
     font-family: 'JetBrains Mono', monospace;
     background-image: url(https://images.pexels.com/photos/62693/pexels-photo-62693.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940);
-    /* background-repeat: no-repeat; */
+    
     background-size: cover;
 }
 
 header {
     box-shadow: 0 2px 5px grey;
-    width: 75%;
-    margin-left: 5%;
+    width: 80%;
+    margin-left: 10%;
     margin-top: 5%;
     background: whitesmoke;
     }
 
 header h1 {
-    margin-left: 5%;
+    margin-left: 10%;
     font-size: 35px;
 }
 
 .bio {
     box-shadow: 0 2px 5px grey;
-    width: 75%;
-    margin-left: 5%;
-    margin-top: 5%;
+    width: 80%;
+    margin-left: 10%;
+    margin-top: 1%;
     background: whitesmoke;
     display: inline-flex;
 }
