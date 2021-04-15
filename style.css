@@ -15,6 +15,7 @@ header {
 
 header h1 {
     margin-left: 5%;
+    font-size: 35px;
 }
 
 .bio {
@@ -28,4 +29,18 @@ header h1 {
 
 .bio img {
     height: 100%;
+}
+
+.introText {
+    text-align: left;
+    font-size: 23px;
+}
+
+.introText h4 {
+    margin-left: 5%;
+    margin-right: 2%;
+}
+
+.contactInfo {
+    text-align: center;
 }
