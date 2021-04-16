@@ -72,14 +72,17 @@ header h1 {
 
 .card1 {
     grid-area: card1;
+    padding: 0 10px;
 }
 
 .card2 {
     grid-area: card2;
+    padding: 0 10px;
 }
 
 .card3 {
     grid-area: card3;
+    padding: 0 10px;
 }
 
 .personalProjects > a {
@@ -93,7 +96,7 @@ header h1 {
 
 .personalProjects span {
     color: black;
-    font-size: 20px;
+    font-size: 18px;
 }
 
 .technicalSkills {
@@ -104,17 +107,17 @@ header h1 {
     background: whitesmoke;
     text-align: center;
     display: flex;
-    font-size: 17px;
+    font-size: 18px;
 }
 
 .technicalSkills h4 {
     color: #ad2130;
+    margin-bottom: 0;
 }
 
 .frontEnd, .backEnd {
     display: flex;
     flex-direction: column;
-    margin-top:0%;
     margin-left: 5%;
     margin-right: 5%;
 }
