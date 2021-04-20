@@ -94,6 +94,11 @@ header h1 {
     text-decoration: none;
 }
 
+.personalProjects > a:hover{
+    transform: scale(1.25);
+    transition: all 1s;
+}
+
 .personalProjects span {
     color: black;
     font-size: 18px;
@@ -120,5 +125,10 @@ header h1 {
     flex-direction: column;
     margin-left: 5%;
     margin-right: 5%;
+}
+
+.footerText {
+    text-align: center;
+    padding: 1px 0;
 }
 
