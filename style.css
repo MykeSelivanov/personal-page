@@ -58,11 +58,11 @@ header h1 {
     text-align: center;
     font-size: 17px;
     display: grid;
-    grid-template-columns: 1fr 1fr 1fr;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
     grid-template-rows: auto;
     grid-template-areas: 
-    "title title title"
-    "card1 card2 car3";
+    "title title title title"
+    "card1 card2 car3 card4";
 }
 
 /* grid layout */
@@ -81,6 +81,11 @@ header h1 {
 }
 
 .card3 {
+    grid-area: card3;
+    padding: 0 10px;
+}
+
+.card4 {
     grid-area: card3;
     padding: 0 10px;
 }
