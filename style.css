@@ -102,7 +102,7 @@ header h1 {
 .personalProjects > a:hover{
     transform: scale(1.25);
     transition: all 1s;
-}
+} 
 
 .personalProjects span {
     color: black;
