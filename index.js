@@ -22,7 +22,7 @@ console.log(projectCards);
 // navigation on project cards click
 projectCards.forEach(element => {
     element.addEventListener('click', () => {
-        switch (element.getAttribute('id')){
+        switch (element.getAttribute('id')) {
             case 'card1Link':
                 window.open('https://github.com/MykeSelivanov/jd-ticketing-project-rest', '_blank');
                 break;
@@ -34,6 +34,9 @@ projectCards.forEach(element => {
                 break;
             case 'card4Link':
                 window.open('https://github.com/MykeSelivanov/java-functional-programming', '_blank');
+                break;
+            case 'card5Link':
+                window.open('https://github.com/MykeSelivanov/jd-ticketing-project-security', '_blank');
                 break;
             default:
                 alert('Click on invalid element!');
