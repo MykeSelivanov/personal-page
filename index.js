@@ -33,9 +33,9 @@ projectCards.forEach(element => {
                 window.open('https://github.com/MykeSelivanov/java-functional-programming', '_blank');
                 break;
             case 'card4Link':
-                window.open('https://github.com/MykeSelivanov/java-functional-programming', '_blank');
+                window.open('https://github.com/MykeSelivanov/jd-ticketing-project-security', '_blank');
                 break;
-            case 'card4Link':
+            case 'card5Link':
                 window.open('https://github.com/MykeSelivanov/jd-ticketing-project-security', '_blank');
                 break;
             default:
