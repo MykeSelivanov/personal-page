@@ -40,6 +40,9 @@ projectCards.forEach(element => {
             case 'card6Link':
                 window.open('https://github.com/MykeSelivanov/java-functional-programming', '_blank');
                 break;
+            case 'card7Link':
+                window.open('https://github.com/MykeSelivanov/swe-101', '_blank');
+                break;
             case 'card8Link':
                 window.open('https://github.com/MykeSelivanov/java-data-structures', '_blank');
                 break;
