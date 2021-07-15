@@ -21,7 +21,7 @@ footer {
     box-shadow: 0 2px 5px grey;
     width: 80%;
     margin-left: 10%;
-    margin-top: 2.5%;
+    margin-top: 2%;
     background: whitesmoke;
 }
 
@@ -137,8 +137,8 @@ header h1 {
 .frontEnd, .backEnd {
     display: flex;
     flex-direction: column;
-    margin-left: 5%;
-    margin-right: 5%;
+    margin-left: 3%;
+    margin-right: 3%;
 }
 
 .footerText {
