@@ -9,13 +9,21 @@ a {
     color: black;
 }
 
-header, footer {
+header {
     box-shadow: 0 2px 5px grey;
     width: 80%;
     margin-left: 10%;
     margin-top: 5%;
     background: whitesmoke;
     }
+
+footer {
+    box-shadow: 0 2px 5px grey;
+    width: 80%;
+    margin-left: 10%;
+    margin-top: 2.5%;
+    background: whitesmoke;
+}
 
 header h1 {
     margin-left: 10%;
