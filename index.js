@@ -1,6 +1,5 @@
 // locating elements
 const projectCards = document.querySelectorAll('.personalProjects > a');
-console.log(projectCards);
 
 // adding events on project card hover and click
 // projectCards.forEach(element => {
@@ -27,16 +26,22 @@ projectCards.forEach(element => {
                 window.open('https://github.com/MykeSelivanov/jd-ticketing-project-rest', '_blank');
                 break;
             case 'card2Link':
-                window.open('https://github.com/MykeSelivanov/java-data-structures', '_blank');
+                window.open('https://github.com/MykeSelivanov/chat-chat', '_blank');
                 break;
             case 'card3Link':
-                window.open('https://github.com/MykeSelivanov/java-functional-programming', '_blank');
+                window.open('https://github.com/MykeSelivanov/jd-java-springboot', '_blank');
                 break;
             case 'card4Link':
-                window.open('https://github.com/MykeSelivanov/jd-ticketing-project-security', '_blank');
+                window.open('https://github.com/MykeSelivanov/puppies-tinder', '_blank');
                 break;
             case 'card5Link':
                 window.open('https://github.com/MykeSelivanov/jd-ticketing-project-security', '_blank');
+                break;
+            case 'card6Link':
+                window.open('https://github.com/MykeSelivanov/java-functional-programming', '_blank');
+                break;
+            case 'card8Link':
+                window.open('https://github.com/MykeSelivanov/java-data-structures', '_blank');
                 break;
             default:
                 alert('Click on invalid element!');
