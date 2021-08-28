@@ -46,7 +46,7 @@ projectCards.forEach(element => {
             case 'card8Link':
                 window.open('https://github.com/MykeSelivanov/java-data-structures', '_blank');
                 break;
-                case 'card8Link':
+            case 'card9Link':
                 window.open('https://github.com/MykeSelivanov/java-data-structures', '_blank');
                 break;
             default:
