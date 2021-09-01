@@ -47,7 +47,7 @@ projectCards.forEach(element => {
                 window.open('https://github.com/MykeSelivanov/java-data-structures', '_blank');
                 break;
             case 'card9Link':
-                window.open('https://github.com/MykeSelivanov/java-data-structures', '_blank');
+                window.open('https://github.com/MykeSelivanov/reactichat', '_blank');
                 break;
             default:
                 alert('Click on invalid element!');
