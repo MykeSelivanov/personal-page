@@ -49,6 +49,9 @@ projectCards.forEach(element => {
             case 'card9Link':
                 window.open('https://github.com/MykeSelivanov/reactichat', '_blank');
                 break;
+            case 'card10Link':
+                window.open('https://github.com/MykeSelivanov/mini-react-clone', '_blank');
+                break;
             default:
                 alert('Click on invalid element!');
         };
